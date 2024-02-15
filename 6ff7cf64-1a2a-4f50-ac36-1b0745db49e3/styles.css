@@ -1,0 +1,86 @@
+#kix-horizontal-ruler > div > div.docs-ruler-background > div {
+  border-bottom: transparent !important;
+}
+
+#kix-horizontal-ruler {
+  background-color: #d9dbde !important;
+} 
+
+ #kix-vertical-ruler {
+  background-color: #d9dbde !important;
+} 
+
+#kix-vertical-ruler > div > div.docs-ruler-background > div {
+  border-right-color: transparent !important;
+}
+
+#kix-vertical-ruler {
+  background-color: #d9dbde !important;
+}
+
+.docs-grille-gm3 #docs-font-family .goog-toolbar-menu-button-caption {
+  width: auto !important;
+  padding-right: 8px !important;
+}
+
+.docs-material-colorpalette-colorswatch, .docs-material-colorpalette-colorswatch-translucent-wrapper {
+  border-radius: 40% !important;
+}
+
+#docs-toolbar-wrapper.docs-main-toolbars {
+  border-radius: 10px !important;
+}
+
+#docs-toolbar-mode-switcher > div > div > div.goog-toolbar-menu-button-caption.goog-inline-block {
+  width: auto !important;
+}
+
+.docs-grille-gm3 #docs-toolbar-mode-switcher {
+  border-radius: 4px !important;
+}
+
+.docs-grille-gm3 #docs-titlebar-share-client-button .jfk-button, .docs-grille-gm3 #scb-quick-actions-menu-button.goog-flat-menu-button {
+  border-radius: 10px !important;
+  padding-right: 24px !important;
+}
+
+.docs-grille-gm3 #scb-quick-actions-menu-button.goog-flat-menu-button, .docs-grille-gm3 #scb-quick-actions-menu-button.goog-flat-menu-button-disabled, .docs-grille-gm3 #scb-quick-actions-menu-button.goog-flat-menu-button.goog-flat-menu-button-active, .docs-grille-gm3 #scb-quick-actions-menu-button.goog-flat-menu-button.goog-flat-menu-button-hover, .docs-grille-gm3 #scb-quick-actions-menu-button.goog-flat-menu-button.goog-flat-menu-button-hover:focus, .docs-grille-gm3 #scb-quick-actions-menu-button.goog-flat-menu-button:focus {
+  border-radius: 0 10px 10px 0 !important;
+  margin-left: -24px !important;
+  border-left: 0px !important;
+  min-width: 26px !important;
+  padding-right: 0px !important;
+}
+
+#docs-instant-bubble {
+  border-radius: 10px !important;
+}
+
+#docs-instant-bubble .instant-button.first-visible-button {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+#docs-instant-bubble .instant-button.last-visible-button {
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+#alignButton {
+  width: 28px !important;
+}
+
+.docs-toolbar-button-split-right, .docs-toolbar-button-split-right {
+  border-top-left-radius: 4px !important;
+  border-bottom-left-radius: 4px !important;
+}
+
+#addChecklistButton {
+  border-top-right-radius: 4px !important;
+  border-bottom-right-radius: 4px !important;
+}
+
+#addBulletButton {
+  border-top-right-radius: 4px !important;
+  border-bottom-right-radius: 4px !important;
+}

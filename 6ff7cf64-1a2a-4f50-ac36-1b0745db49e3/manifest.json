@@ -1,0 +1,16 @@
+{
+  "name": "Better Google Docs",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.docs.google.com/*"
+      ],
+      "css": [
+        "styles.css"
+      ]
+    }
+  ],
+  "permissions": []
+}
